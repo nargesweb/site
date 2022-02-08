@@ -79,7 +79,7 @@ const Navbar = ({ toggle}) => {
                             </NavLink>
                         </NavItem>
                         <NavItem>
-                            <NavLink to='/'
+                            <NavLink to='signup'
                                 smooth={true}
                                 spy={true}
                                 duration={500}
